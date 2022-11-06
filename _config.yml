@@ -1,3 +1,4 @@
 name: Anniversary Web Page
-	markdown: kramdown
+markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
